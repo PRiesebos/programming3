@@ -19,6 +19,7 @@ def get_references(pubmed_id):
     )
 
     references = [f'{link["Id"]}' for link in results[0]["LinkSetDb"][0]["Link"]]
+    print(f"There are a total of {len(references)} references")
 
     return references
 
