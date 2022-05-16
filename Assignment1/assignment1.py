@@ -30,8 +30,12 @@ def write_to_xml(pubmed_id):
         retmode="xml",
         api_key="1b128aaba77c37664c213d753017ca520108",
     )
-    with open(f"output/{pubmed_id}.xml", "wb") as file:
-        file.write(handle.read())
+    try:
+        with open(f"output/{pubmed_id}.xml", "wb") as file:
+            file.write(handle.read())
+            file.close()
+    except IOError:
+        print("Something went wrong")
     sleep(15)
 
 
@@ -55,9 +59,11 @@ if __name__ == "__main__":
         help="Pubmed ID of the article to harvest for references to download.",
     )
     args = argparser.parse_args()
-    print("Getting: ", args.pubmed_id)
 
-    ids = get_references(args.pubmed_id)[:10]
+    count = args.n or 10
+    print(f"Getting: {count} articles for {args.pubmed_id}")
+
+    ids = get_references(args.pubmed_id)[:count]
 
     cpus = mp.cpu_count()
     with mp.Pool(cpus) as pool:
