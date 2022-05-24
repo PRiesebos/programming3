@@ -1,0 +1,14 @@
+ ************* Module assignment1
+ assignment1.py:46: convention (C0301, line-too-long, ) Line too long (113/100)
+ assignment1.py:1: convention (C0114, missing-module-docstring, ) Missing module docstring
+ assignment1.py:7: convention (C0116, missing-function-docstring, get_references) Missing function or method docstring
+ assignment1.py:11: warning (W0621, redefined-outer-name, get_references) Redefining name 'results' from outer scope (line 72)
+ assignment1.py:27: convention (C0116, missing-function-docstring, write_to_xml) Missing function or method docstring
+ assignment1.py:2: convention (C0411, wrong-import-order, ) standard import "from time import sleep" should be placed before "from Bio import Entrez"
+ assignment1.py:3: convention (C0411, wrong-import-order, ) standard import "import argparse as ap" should be placed before "from Bio import Entrez"
+ assignment1.py:4: convention (C0411, wrong-import-order, ) standard import "import multiprocessing as mp" should be placed before "from Bio import Entrez"
+ 
+ ------------------------------------------------------------------
+ Your code has been rated at 7.42/10 (previous run: 7.67/10, -0.25)
+ 
+ 

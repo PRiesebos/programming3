@@ -1,0 +1,2 @@
+Report for assignment1.py start evaluation at <built-in method now of type object at 0x7f297a0a6900>
+*** ASSIGNMENT assignment1.py STATUS: PASSED ***
