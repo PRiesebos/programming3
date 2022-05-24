@@ -1,17 +1,73 @@
-import multiprocessing as mp
+from Bio import Entrez, Medline
 from multiprocessing.managers import BaseManager, SyncManager
+import multiprocessing as mp
 import os, sys, time, queue
+import pickle
+import os
+import argparse as ap
 
 
 POISONPILL = "MEMENTOMORI"
 ERROR = "DOH"
-IP = ""
-PORTNUM = 5381
 AUTHKEY = b"whathasitgotinitspocketsesss?"
-data = ["Always", "look", "on", "the", "bright", "side", "of", "life!"]
 
 
-def make_server_manager(port, authkey):
+class PMgetter:
+    def __init__(self, email, api):
+        self.email = email
+        self.api_key = api
+
+        if os.path.exists("output"):
+            pass
+        else:
+            os.makedirs("output")
+
+    def get_references(self, pubmed_id):
+        Entrez.email = self.email
+        results = Entrez.read(
+            Entrez.elink(
+                dbfrom="pubmed",
+                db="pmc",
+                LinkName="pubmed_pmc_refs",
+                id=pubmed_id,
+                api_key=self.api_key,
+            )
+        )
+        references = [f'{link["Id"]}' for link in results[0]["LinkSetDb"][0]["Link"]]
+        return references
+
+    def get_authors(self, pubmed_id):
+        Entrez.email = self.email
+        handle = Entrez.efetch(
+            db="pubmed",
+            id=pubmed_id,
+            rettype="medline",
+            retmode="text",
+            api_key=self.api_key,
+        )
+
+        authors = tuple(Medline.read(handle)["AU"])
+
+        with open(f"output/{pubmed_id}.authors.pickle", "wb") as f:
+            pickle.dump(authors, f)
+
+    def write_to_xml(self, pubmed_id):
+        handle = Entrez.efetch(
+            db="pmc",
+            id=pubmed_id,
+            rettype="XML",
+            retmode="text",
+            api_key="1b128aaba77c37664c213d753017ca520108",
+        )
+        try:
+            with open(f"output/{pubmed_id}.xml", "wb") as file:
+                file.write(handle.read())
+                file.close()
+        except IOError:
+            print("Something went wrong")
+
+
+def make_server_manager(port, authkey, ip):
     """Create a manager for the server, listening on the given port.
     Return a manager object with get_job_q and get_result_q methods.
     """
@@ -27,15 +83,15 @@ def make_server_manager(port, authkey):
     QueueManager.register("get_job_q", callable=lambda: job_q)
     QueueManager.register("get_result_q", callable=lambda: result_q)
 
-    manager = QueueManager(address=("", port), authkey=authkey)
+    manager = QueueManager(address=(ip, port), authkey=authkey)
     manager.start()
     print("Server started at port %s" % port)
     return manager
 
 
-def runserver(fn, data):
+def runserver(fn, data, ip, port):
     # Start a shared manager server and access its queues
-    manager = make_server_manager(PORTNUM, b"whathasitgotinitspocketsesss?")
+    manager = make_server_manager(port, AUTHKEY, ip)
     shared_job_q = manager.get_job_q()
     shared_result_q = manager.get_result_q()
 
@@ -92,8 +148,8 @@ def make_client_manager(ip, port, authkey):
     return manager
 
 
-def runclient(num_processes):
-    manager = make_client_manager(IP, PORTNUM, AUTHKEY)
+def runclient(num_processes, ip, portnum):
+    manager = make_client_manager(ip, portnum, AUTHKEY)
     job_q = manager.get_job_q()
     result_q = manager.get_result_q()
     run_workers(job_q, result_q, num_processes)
@@ -133,16 +189,68 @@ def peon(job_q, result_q):
             time.sleep(1)
 
 
-def capitalize(word):
-    """Capitalizes the word you pass in and returns it"""
-    return word.upper()
-
-
 if __name__ == "__main__":
-    server = mp.Process(target=runserver, args=(capitalize, data))
-    server.start()
-    time.sleep(1)
-    client = mp.Process(target=runclient, args=(4,))
-    client.start()
-    server.join()
-    client.join()
+    argparser = ap.ArgumentParser(
+        description="Script that downloads (default) 10 articles referenced by the given PubMed ID and takes the authors"
+    )
+    argparser.add_argument(
+        "-n",
+        "--number_peons",
+        action="store",
+        type=int,
+        dest="peons",
+        help="Number of peons per client.",
+    )
+    argparser.add_argument(
+        "--port", action="store", type=int, dest="port", help="portnumber"
+    )
+    argparser.add_argument("--host", action="store", dest="host", help="serverhost")
+    argparser.add_argument(
+        "-a",
+        action="store",
+        type=int,
+        dest="n",
+        default=10,
+        help="number_of_articles_to_download",
+    )
+    argparser.add_argument(
+        "pubmed_id",
+        action="store",
+        type=str,
+        nargs=1,
+        help="Pubmed ID of the article to harvest for references to download.",
+    )
+    group = argparser.add_mutually_exclusive_group()
+    group.add_argument(
+        "-c", action="store_true", dest="clients", help="Number_of_clients."
+    )
+    group.add_argument(
+        "-s", action="store_true", dest="servers", help="Number_of_servers"
+    )
+    args = argparser.parse_args()
+    print("Args:", args)
+    print("Getting child references: ", args.pubmed_id)
+
+    pmgetter = PMgetter("pcriesebos@gmail.com", "1b128aaba77c37664c213d753017ca520108")
+
+    count = args.n or 10
+    refs = pmgetter.get_references(pubmed_id=args.pubmed_id)[:count]
+
+    ip = args.host
+    portnum = args.port
+    cpus = mp.cpu_count()
+    ids = pmgetter.get_references(args.pubmed_id)[:count]
+
+    if args.clients:
+        client = mp.Process(target=runclient, args=(4, ip, portnum))
+        client.start()
+        client.join()
+        for id in ids:
+            pmgetter.write_to_xml(id)
+
+    if args.servers:
+        servers = mp.Process(
+            target=runserver, args=(pmgetter.get_authors, refs, ip, portnum)
+        )
+        servers.start()
+        servers.join()
