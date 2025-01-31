@@ -1,0 +1,624 @@
+Average features per genome: 40.41
+Coding to non-coding ratio: 22.64
+Minimum and maximum proteins per organism:
+Halorubrum kocurii JCM 14978: Min=0, Max=3442
+Pyrobaculum aerophilum: Min=0, Max=2825
+Methanosarcina spelaei: Min=0, Max=4026
+Halapricum sp. CBA1109: Min=0, Max=2796
+Thermogymnomonas acidicola JCM 13583: Min=0, Max=1880
+Methanofollis sp. W23: Min=2444, Max=2444
+Halobacterium salinarum: Min=0, Max=2455
+Methanosarcina thermophila: Min=0, Max=2685
+Methanobrevibacter smithii TS96B: Min=0, Max=1743
+Halorubrum sp. ARQ200: Min=0, Max=3314
+Halobellus salinus: Min=0, Max=2875
+Methanosphaera cuniculi: Min=0, Max=1633
+Natronococcus sp. JC468: Min=0, Max=3816
+Haloferax sp. CBA1149: Min=3440, Max=3440
+Halobacterium sp. KA-4: Min=3321, Max=3321
+Methanobacterium sp. A39: Min=3230, Max=3230
+Methanobrevibacter arboriphilus JCM 13429 = DSM 1125: Min=0, Max=2458
+Metallosphaera sedula: Min=2306, Max=2306
+Haloferax sp. Atlit-4N: Min=0, Max=4119
+Natronorubrum bangense JCM 10635: Min=0, Max=3895
+Haloferax marisrubri: Min=0, Max=3845
+Methanoculleus thermophilus: Min=0, Max=2227
+Haloferax gibbonsii ATCC 33959: Min=3944, Max=3944
+Haloferax prahovense DSM 18310: Min=0, Max=3902
+Sulfolobus islandicus M.16.12: Min=2672, Max=2672
+Halorubrum sp. CSM-61: Min=3541, Max=3541
+Methanobrevibacter boviskoreani JH1: Min=0, Max=1742
+Methanosarcina barkeri JCM 10043: Min=0, Max=3640
+Pyrodictium delaneyi: Min=2059, Max=2059
+Methanobrevibacter smithii TS147C: Min=0, Max=1831
+Haloarchaeobius salinus: Min=3796, Max=3796
+Methanococcus voltae: Min=0, Max=1650
+Halorubrum tebenquichense DSM 14210: Min=0, Max=3296
+Nitrososphaera sp. AFS: Min=2277, Max=2277
+Thermococcus sp. 21S7: Min=0, Max=2464
+Methanolobus chelungpuianus: Min=0, Max=2543
+Thermococcus thioreducens: Min=0, Max=2291
+Halorubrum depositum: Min=0, Max=3129
+Natronocalculus amylovorans: Min=3244, Max=3244
+Natrinema altunense: Min=3556, Max=3666
+Metallosphaera hakonensis JCM 8857 = DSM 7519: Min=0, Max=2217
+Halalkalicoccus paucihalophilus: Min=0, Max=3930
+Methanobrevibacter smithii TS95D: Min=0, Max=1843
+Vulcanisaeta souniana JCM 11219: Min=0, Max=3063
+Methanosarcina sp. 2.H.A.1B.4: Min=0, Max=3231
+Halorientalis salina: Min=3635, Max=3656
+Halorubrum saccharovorum: Min=0, Max=2632
+Halococcus salsus: Min=3493, Max=3493
+Haloarcula hispanica: Min=0, Max=3927
+Halorubrum distributum JCM 9100: Min=0, Max=3172
+Halorubrum sp. C191: Min=0, Max=3724
+Haloarcula sp. K1: Min=0, Max=4283
+Haladaptatus sp. W1: Min=0, Max=5210
+Methanoculleus chikugoensis JCM 10825: Min=0, Max=2711
+Methanobrevibacter smithii TS146B: Min=0, Max=1624
+Methanobrevibacter smithii TS96A: Min=0, Max=1832
+Halorubrum sp. SD626R: Min=0, Max=5927
+Methanosarcina sp. A14: Min=0, Max=3462
+Halorubrum lacusprofundi: Min=0, Max=3492
+Halorussus litoreus: Min=3681, Max=3681
+Methanothermococcus thermolithotrophicus DSM 2095: Min=1658, Max=1658
+Halorubrum aidingense JCM 13560: Min=0, Max=3017
+Natronoarchaeum philippinense: Min=3239, Max=3239
+Natrinema thermotolerans A29: Min=0, Max=4192
+Methanolobus profundi: Min=0, Max=2881
+Halovenus aranensis: Min=0, Max=3227
+Aeropyrum pernix: Min=0, Max=1658
+Methanosalsum natronophilum: Min=0, Max=1966
+Methanobacterium sp. VT: Min=0, Max=2682
+Natranaeroarchaeum aerophilus: Min=0, Max=3238
+Candidatus Methanoperedens nitroreducens: Min=0, Max=3742
+Thermococcus sp. M39: Min=0, Max=2380
+Halobellus clavatus: Min=0, Max=3586
+Natrarchaeobius chitinivorans: Min=0, Max=4294
+Halorubrum sp. Atlit-26R: Min=0, Max=4107
+Halorubrum halodurans: Min=0, Max=3242
+Haloarcula sebkhae: Min=0, Max=4147
+Haloferax sp. Atlit-109R: Min=0, Max=3850
+Haloferax larsenii: Min=3848, Max=3848
+Methanoculleus sp. MH98A: Min=0, Max=2583
+Sulfuracidifex metallicus DSM 6482 = JCM 9184: Min=0, Max=2331
+Methanosphaera sp. WGK6: Min=0, Max=1589
+Candidatus Nitrosotalea sp. FS: Min=0, Max=1618
+Methanobacterium formicicum JCM 10132: Min=0, Max=2498
+Methanohalophilus portucalensis FDF-1: Min=2005, Max=2083
+Natrialba aegyptia DSM 13077: Min=0, Max=4313
+Halorubrum sp. SD683: Min=3123, Max=3123
+Halonotius terrestris: Min=0, Max=2863
+Methanobrevibacter smithii TS94C: Min=0, Max=1785
+Halohasta litorea: Min=0, Max=3793
+Halorussus amylolyticus: Min=3796, Max=3796
+Sulfodiicoccus acidiphilus: Min=0, Max=2215
+Methanocorpusculum sp. GPch4: Min=0, Max=1864
+Halobacterium sp. CBA1126: Min=0, Max=2687
+Methanotorris formicicus Mc-S-70: Min=0, Max=1918
+Halorubrum sp. Atlit-9R: Min=0, Max=3917
+Halosimplex carlsbadense 2-9-1: Min=0, Max=4492
+Halobellus limi: Min=0, Max=3615
+Halorubrum terrestre: Min=0, Max=3128
+Haloferax sp. Q22: Min=0, Max=3975
+Candidatus Nitrosotenuis uzonensis: Min=1905, Max=2090
+Haloarcula sp. CBA1122: Min=0, Max=3622
+Haloferax sulfurifontis: Min=0, Max=3858
+Methanobrevibacter smithii TS146A: Min=0, Max=1615
+Halalkalicoccus jeotgali B3: Min=0, Max=3708
+Methanococcoides sp. AM1: Min=0, Max=2432
+Methanosarcina sp. 2.H.T.1A.8: Min=3366, Max=3366
+Halorubrum sp. JWXQ-INN 858: Min=0, Max=2818
+Haloarcula salaria: Min=0, Max=4014
+Halohasta sp. GSL13: Min=0, Max=2933
+Natrinema sp. CBA1119: Min=4774, Max=4774
+Methanobrevibacter smithii TS147B: Min=0, Max=1877
+Methanohalophilus halophilus: Min=0, Max=2025
+Vulcanisaeta thermophila: Min=2128, Max=2128
+Haloarcula vallismortis: Min=0, Max=3903
+Methanolobus vulcani: Min=0, Max=2809
+Natrinema versiforme JCM 10478: Min=0, Max=4084
+Methanosarcina sp. KYL-1: Min=0, Max=3455
+Fervidicoccus fontis: Min=1098, Max=1299
+Halomicroarcula pellucida: Min=0, Max=4008
+Haloferax sp. Atlit-16N: Min=0, Max=3899
+Candidatus Methanodesulfokores washburnensis: Min=3222, Max=3222
+Methanosarcina mazei: Min=0, Max=3621
+Halorubrum sp. Atlit-8R: Min=0, Max=3309
+Haloarchaeobius iranensis: Min=0, Max=3750
+Halarchaeum acidiphilum MH1-52-1: Min=0, Max=2557
+Methanobrevibacter thaueri: Min=0, Max=2110
+Haloarcula sinaiiensis ATCC 33800: Min=4353, Max=4353
+Halorubrum sp. GN11GM_10-3_MGM: Min=0, Max=3385
+Methanobrevibacter boviskoreani: Min=0, Max=1864
+Halopiger aswanensis: Min=4546, Max=4546
+Halorubrum alkaliphilum: Min=0, Max=2854
+Thermococcus sp. GR4: Min=0, Max=2178
+Methanospirillum stamsii: Min=0, Max=3490
+Halorubrum xinjiangense: Min=3114, Max=3114
+Methanolobus psychrotolerans: Min=0, Max=2946
+Thermoplasma sp. Kam2015: Min=0, Max=1793
+Methanobrevibacter smithii TS95C: Min=0, Max=1805
+Halobellus ruber: Min=3215, Max=3215
+Methanobrevibacter smithii TS94A: Min=0, Max=1750
+Halococcus saccharolyticus DSM 5350: Min=0, Max=3443
+Natronomonas sp. CBA1123: Min=3464, Max=3464
+Thermococcus sp. 101 C5: Min=2032, Max=2032
+Metallosphaera javensis (ex Hofmann et al. 2022): Min=0, Max=2324
+Haloarcula californiae ATCC 33799: Min=0, Max=4342
+Halorubrum sp. GN12_10-3_MGM: Min=0, Max=3515
+Natronorubrum texcoconense: Min=4416, Max=4416
+Methanobacterium bryantii: Min=0, Max=3300
+Haloferax sp. ATB1: Min=3700, Max=3700
+Halorubrum sp. SP3: Min=0, Max=3467
+Methanobrevibacter smithii TS146D: Min=0, Max=1573
+Natronobacterium gregoryi: Min=3530, Max=3530
+Methanocalculus taiwanensis: Min=0, Max=2298
+Halorubrum litoreum JCM 13561: Min=0, Max=3056
+Methanobacterium subterraneum: Min=2266, Max=2266
+Halorubrum arcis JCM 13916: Min=0, Max=3306
+Acidiplasma aeolicum: Min=0, Max=1819
+Haloarcula mannanilytica: Min=0, Max=4146
+Natrialba swarupiae: Min=0, Max=3918
+Halorubrum sp. CBA1125: Min=0, Max=2765
+Thermococcus sp. 21S9: Min=0, Max=2080
+Halobellus captivus: Min=3177, Max=3465
+Methanosarcina sp. MSH10X1: Min=0, Max=2989
+Halolamina sp. R1-12: Min=0, Max=3085
+Methanosarcina sp. 1.H.T.1A.1: Min=0, Max=3169
+Haloterrigena limicola JCM 13563: Min=0, Max=3421
+Natronolimnohabitans innermongolicus JCM 12255: Min=0, Max=4328
+Halorubrum sp. SD612: Min=0, Max=3324
+Methanocalculus chunghsingensis: Min=0, Max=2167
+Saliphagus infecundisoli: Min=4234, Max=4236
+Methanosarcina sp. DH1: Min=0, Max=3574
+Halorubrum terrestre JCM 10247: Min=0, Max=3279
+Natrialba sp. SSL1: Min=0, Max=4272
+Halococcus hamelinensis 100A6: Min=0, Max=3503
+Halorubrum sp. SS7: Min=0, Max=3713
+Vulcanisaeta distributa JCM 11216: Min=0, Max=3068
+Halocatena pleomorpha: Min=3463, Max=3463
+Thermococcus sp. M36: Min=0, Max=2413
+Halorhabdus tiamatea SARL4B: Min=3109, Max=3109
+Halorhabdus salina: Min=2724, Max=2724
+Natronobacterium gregoryi SP2: Min=0, Max=3539
+Halorubrum rubrum: Min=0, Max=3146
+Thermococcus sp. GR5: Min=0, Max=2043
+Acidianus sp. RZ1: Min=0, Max=2324
+Halorubrum sp. SP9: Min=0, Max=3685
+Methanocella conradii: Min=2499, Max=2499
+Halomicroarcula nitratireducens: Min=5008, Max=5008
+Candidatus Nitrosotenuis chungbukensis: Min=1998, Max=1998
+Haloferax sp. Atlit-12N: Min=0, Max=4031
+Haloferax sp. KTX1: Min=0, Max=4318
+Natronorubrum halalkaliphilum: Min=0, Max=4119
+Halococcus agarilyticus: Min=0, Max=3381
+Acidianus infernus: Min=2257, Max=2257
+Candidatus Korarchaeum cryptofilum: Min=1849, Max=1849
+Halobacterium sp. KA-6: Min=3472, Max=3472
+Haloarcula sp. JP-Z28: Min=0, Max=4425
+Haloterrigena salina JCM 13891: Min=0, Max=4456
+Halorussus marinus: Min=0, Max=3752
+Halorussus sp. MSC15.2: Min=0, Max=4145
+Salinirussus salinus: Min=3454, Max=3454
+Natrinema gari JCM 14663: Min=0, Max=3886
+Halopenitus persicus: Min=3246, Max=3246
+Methanohalophilus profundi: Min=1843, Max=1843
+Halogranum amylolyticum: Min=0, Max=4979
+Haloarcula argentinensis: Min=3965, Max=3965
+Methanobacterium alcaliphilum: Min=0, Max=2314
+Natronococcus amylolyticus DSM 10524: Min=0, Max=4288
+Thermococcus litoralis: Min=0, Max=2282
+Halorubrum hochstenium ATCC 700873: Min=0, Max=2968
+Halogranum salarium B-1: Min=4418, Max=4418
+Methanocorpusculum bavaricum DSM 4179: Min=0, Max=1699
+Acidiplasma cupricumulans: Min=0, Max=1766
+Halorientalis pallida: Min=0, Max=4132
+Natrialba chahannaoensis JCM 10990: Min=0, Max=3916
+Halococcus thailandensis JCM 13552: Min=0, Max=3946
+Methanosphaera sp. A6: Min=0, Max=1442
+Methanobrevibacter sp. TMH8: Min=0, Max=1732
+Natrinema pellirubrum DSM 15624: Min=0, Max=4093
+Halorubrum sp. Eb13: Min=0, Max=3472
+Halostella sp. JP-L12: Min=3991, Max=3991
+Candidatus Nitrosotalea bavarica: Min=1794, Max=1794
+Halorubrum sp. GN11_10-6_MGM: Min=0, Max=3238
+Methanosarcina horonobensis HB-1 = JCM 15518: Min=0, Max=5079
+Methanococcoides sp. NM1: Min=0, Max=2269
+Halorubrum halophilum: Min=0, Max=3544
+Halomicrobium mukohataei: Min=0, Max=3376
+Methanococcoides vulcani: Min=2206, Max=2216
+Vulcanisaeta distributa JCM 11217: Min=0, Max=2545
+Desulfurococcus mucosus DSM 2161: Min=0, Max=1221
+Haloterrigena sp. H1: Min=4103, Max=4103
+Halomicroarcula rubra: Min=0, Max=4614
+Halorubrum distributum JCM 10118: Min=0, Max=3173
+Halorubrum ezzemoulense: Min=0, Max=3928
+Halorubrum aquaticum: Min=0, Max=3092
+Haloferax volcanii DS2: Min=0, Max=3794
+Thermococcus sp. GR7: Min=0, Max=2126
+Haloferax sp. Atlit-19N: Min=0, Max=3973
+Halorubrum coriense DSM 10284: Min=0, Max=3530
+Halorubrum sp. ASP1: Min=0, Max=3583
+Haloferax profundi: Min=0, Max=3866
+Pyrobaculum sp. 3827-6: Min=2402, Max=2402
+Methanobrevibacter smithii TS95A: Min=0, Max=1779
+Haloferax sp. ATCC BAA-645: Min=0, Max=3573
+Halobacterium bonnevillei: Min=0, Max=3393
+Haloferax sp. AB510: Min=0, Max=3677
+Methanogenium cariaci JCM 10550: Min=0, Max=2865
+Methanocorpusculum sp. MG: Min=0, Max=2029
+Ferroplasma acidiphilum: Min=0, Max=1885
+Halorubrum sp. Atlit-28R: Min=0, Max=3464
+Sulfolobus islandicus: Min=0, Max=2380
+Halomarina oriensis: Min=4047, Max=4047
+Methanobrevibacter sp. A54: Min=0, Max=1667
+Halobacterium hubeiense: Min=0, Max=3404
+Halorientalis persicus: Min=0, Max=4925
+Natronobiforma cellulositropha: Min=3520, Max=3520
+Sulfolobus sp. B1: Min=0, Max=1999
+Methanothrix sp.: Min=0, Max=2453
+Haloferax mucosum ATCC BAA-1512: Min=0, Max=3381
+Candidatus Nitrosopelagicus brevis: Min=1465, Max=1465
+Natrinema sp. J7-1: Min=3550, Max=3550
+Haloglomus irregulare: Min=0, Max=3843
+Halopiger salifodinae: Min=0, Max=4116
+Haloferax sp. BAB-2207: Min=0, Max=3557
+Candidatus Nitrosotalea sp. TS: Min=1823, Max=1823
+Natrialba sp. INN-245: Min=0, Max=3757
+Halorubrum sp. 48-1-W: Min=0, Max=3440
+Nitrosopumilus sp. Nsub: Min=1669, Max=1669
+Haloterrigena hispanica: Min=0, Max=3964
+Halobellus litoreus: Min=3649, Max=3649
+Archaeoglobus fulgidus: Min=0, Max=2337
+Halobiforma lacisalsi AJ5: Min=0, Max=4104
+Natronorubrum tibetense GA33: Min=0, Max=4564
+Methanobrevibacter smithii: Min=0, Max=1792
+Haloferax sp. Atlit-47N: Min=0, Max=3806
+Methanoculleus bourgensis: Min=2489, Max=2489
+Haloferax larsenii JCM 13917: Min=0, Max=3629
+Haloferax sp. Atlit-10N: Min=0, Max=4255
+Thermococcus sp. MV5: Min=0, Max=2105
+Methanobrevibacter smithii TS94B: Min=0, Max=1733
+Salinadaptatus halalkaliphilus: Min=4265, Max=4265
+Methanoculleus sp. 7T: Min=0, Max=2544
+Caldivirga sp. MU80: Min=0, Max=2298
+Haloarcula sp. Atlit-120R: Min=0, Max=4252
+Methanogenium sp. MK-MG: Min=2171, Max=2171
+Saccharolobus shibatae: Min=2679, Max=2679
+Halobiforma nitratireducens JCM 10879: Min=0, Max=3426
+Halococcus sp. PRR34: Min=0, Max=4005
+Natrinema altunense JCM 12890: Min=0, Max=3677
+Candidatus Nitrosarchaeum limnium BG20: Min=0, Max=2290
+Halorubrum sp. Ea8: Min=0, Max=3606
+Halorubrum sp. Ib24: Min=0, Max=2712
+Halorubrum trapanicum: Min=0, Max=2828
+Natrinema pallidum DSM 3751: Min=0, Max=3724
+Halocalculus aciditolerans: Min=0, Max=3431
+Methanobacterium veterum: Min=0, Max=3277
+Saliphagus sp. LR7: Min=0, Max=4493
+Methanosphaera stadtmanae: Min=0, Max=1563
+Methanobrevibacter smithii TS96C: Min=0, Max=1706
+Halorubrum yunnanense: Min=0, Max=3070
+Haloarcula sp. Atlit-7R: Min=0, Max=4564
+Halorubrum ezzemoulense DSM 17463: Min=0, Max=3430
+Methanohalophilus sp. WG1-DM: Min=0, Max=1985
+Halarchaeum solikamskense: Min=2964, Max=2964
+Methanococcoides sp. SA1: Min=0, Max=5643
+Halogeometricum pallidum JCM 14848: Min=4232, Max=4232
+Halorubrum amylolyticum: Min=0, Max=3441
+Thermococcus sp. ES12: Min=0, Max=2129
+Thermococcus sp. CX2: Min=0, Max=1867
+Haloferax sp. Atlit-48N: Min=0, Max=3564
+Haladaptatus sp. AB643: Min=0, Max=4642
+Methanobrevibacter smithii TS146E: Min=0, Max=1866
+Halostella litorea: Min=0, Max=3872
+Methanobrevibacter arboriphilus JCM 9315: Min=0, Max=2110
+Methanosarcina sp. 1.H.A.2.2: Min=0, Max=3194
+Haloarcula sp. Atlit-47R: Min=0, Max=4182
+Halorubrum vacuolatum: Min=0, Max=3231
+Methanoculleus horonobensis: Min=0, Max=2424
+Haloferax sp. Atlit-24N: Min=0, Max=3846
+Halorubrum laminariae: Min=3540, Max=3540
+Haloferax sulfurifontis ATCC BAA-897: Min=3791, Max=3791
+Halonotius pteroides: Min=0, Max=2975
+Methanobacterium petrolearium: Min=2320, Max=2320
+Vulcanisaeta sp. JCM 16161: Min=2857, Max=2857
+Halorussus ruber: Min=0, Max=4222
+Methanobrevibacter filiformis: Min=0, Max=1948
+Halomicroarcula salinisoli: Min=0, Max=4051
+Methanobrevibacter smithii TS95B: Min=0, Max=1756
+Halobellus inordinatus: Min=0, Max=3317
+Vulcanisaeta sp. JCM 16159: Min=2737, Max=2737
+Haladaptatus sp. DYF46: Min=0, Max=5528
+Sulfuracidifex tepidarius: Min=0, Max=2534
+Halarchaeum rubridurum: Min=0, Max=2828
+Halorubrum sp. Ea1: Min=0, Max=3797
+Natrialba taiwanensis DSM 12281: Min=0, Max=4244
+Haloferax sp. Atlit-105R: Min=0, Max=3856
+Halobellus sp. Atlit-38R: Min=0, Max=3799
+Methanomicrobium sp. W14: Min=0, Max=2435
+Methanococcoides seepicolus: Min=0, Max=2645
+Halorubrum sp. ASP121: Min=0, Max=3390
+Candidatus Halobonum tyrrellensis G22: Min=3484, Max=3484
+Methanobrevibacter millerae: Min=2351, Max=2351
+Methanolobus bombayensis: Min=0, Max=2815
+Methanolacinia paynteri: Min=0, Max=2721
+Methanobrevibacter curvatus: Min=0, Max=1953
+Natronorubrum thiooxidans: Min=0, Max=4021
+Methanosarcina sp. 2.H.T.1A.3: Min=0, Max=3382
+Haloferax lucentense DSM 14919: Min=0, Max=3600
+Halorubrum cibi: Min=0, Max=3075
+Haloarcula rubripromontorii: Min=3863, Max=3944
+Candidatus Methanoperedens sp. BLZ2: Min=3948, Max=3948
+Haloferax sp. ATCC BAA-646: Min=0, Max=3576
+Halalkalirubrum salinum: Min=0, Max=3349
+Methanococcoides methylutens: Min=0, Max=2426
+Thermococcus bergensis: Min=2191, Max=2191
+Haloferax volcanii: Min=0, Max=3708
+Methanocaldococcus villosus KIN24-T80: Min=0, Max=1256
+Natronomonas salsuginis: Min=2897, Max=2897
+Nitrosopumilus sp.: Min=338, Max=1258
+Halobacterium salinarum DSM 3754: Min=2415, Max=2415
+Infirmifilum uzonense: Min=1528, Max=1528
+Halorubrum sp. SD690R: Min=0, Max=3577
+Haladaptatus sp. AB618: Min=0, Max=4625
+Haloprofundus marisrubri: Min=0, Max=3916
+Candidatus Nitrosocosmicus sp. SS: Min=3056, Max=3065
+Halococcus sp. IIIV-5B: Min=0, Max=3836
+Halalkalicoccus subterraneus: Min=0, Max=3708
+Candidatus Acidianus copahuensis: Min=0, Max=2440
+Thermococcus sp. 9N3: Min=0, Max=2138
+Halogeometricum sp. CBA1124: Min=0, Max=3476
+Halorubellus salinus: Min=0, Max=3809
+Halonotius aquaticus: Min=0, Max=2511
+Methanolobus halotolerans: Min=0, Max=2527
+Halolamina rubra: Min=0, Max=2949
+Methanosarcina sp. 2.H.T.1A.15: Min=0, Max=3425
+Methanohalophilus euhalobius: Min=0, Max=1979
+Methanobrevibacter sp. A27: Min=1797, Max=1797
+Haloparvum sedimenti: Min=0, Max=3202
+Natronorubrum sulfidifaciens JCM 14089: Min=0, Max=3376
+Sulfurisphaera ohwakuensis: Min=0, Max=2669
+Halorientalis regularis: Min=0, Max=4062
+Halococcus morrhuae DSM 1307: Min=0, Max=2944
+Natrinema soli: Min=0, Max=5880
+Methanobrevibacter sp. 87.7: Min=0, Max=1620
+Methanobrevibacter wolinii SH: Min=0, Max=1690
+Acidiplasma cupricumulans JCM 13668: Min=0, Max=1771
+Natrialba magadii ATCC 43099: Min=4103, Max=4103
+Acidianus ambivalens: Min=0, Max=2485
+Haloferax denitrificans ATCC 35960: Min=0, Max=3764
+Natronococcus jeotgali DSM 18795: Min=0, Max=4305
+Halorubrum persicum: Min=0, Max=3400
+Methanococcus maripaludis: Min=0, Max=2123
+Natrialba hulunbeirensis JCM 10989: Min=0, Max=3817
+Candidatus Nitrosopumilus salaria BD31: Min=0, Max=1926
+Halopenitus malekzadehii: Min=3028, Max=3028
+Methanobrevibacter oralis: Min=0, Max=2002
+Sulfolobus acidocaldarius: Min=0, Max=2352
+Halorubrum sp. Hd13: Min=0, Max=3603
+Haloarcula vallismortis ATCC 29715: Min=0, Max=3978
+Vulcanisaeta sp. EB80: Min=0, Max=2525
+Halorhabdus amylolytica: Min=3319, Max=3319
+Haloterrigena salifodinae: Min=0, Max=4642
+Thermococcus celericrescens: Min=0, Max=2462
+Halosegnis rubeus: Min=2579, Max=2766
+Haloarcula amylolytica JCM 13557: Min=0, Max=4140
+Halosimplex salinum: Min=4831, Max=4831
+Haloferax sp. Atlit-6N: Min=0, Max=4392
+Methanobrevibacter cuticularis: Min=0, Max=2071
+Halomicrobium sp. IBSBa: Min=0, Max=3390
+Halolamina pelagica: Min=2761, Max=3166
+Methanobrevibacter olleyae: Min=1783, Max=1783
+Halostella limicola: Min=0, Max=4114
+Thermococcus alcaliphilus: Min=0, Max=2036
+Methanosarcina sp. DH2: Min=0, Max=3714
+Haladaptatus paucihalophilus DX253: Min=0, Max=4328
+Halegenticoccus soli: Min=4420, Max=4420
+Methanohalophilus sp. RSK: Min=2016, Max=2016
+Methanocella sp. CWC-04: Min=0, Max=3020
+Methanobacterium arcticum: Min=0, Max=3281
+Methanosarcina sp. 2.H.T.1A.6: Min=3364, Max=3364
+Halorubrum sp. CGM5_25_10-8B: Min=0, Max=3396
+Halomicroarcula salina: Min=0, Max=3770
+Halorientalis brevis: Min=4594, Max=4594
+Methanohalophilus levihalophilus: Min=2153, Max=2153
+Methanimicrococcus blatticola: Min=0, Max=1588
+Methanocalculus alkaliphilus: Min=0, Max=2139
+Halohasta litchfieldiae: Min=3284, Max=3284
+Haloarcula sp. CBA1131: Min=4244, Max=4244
+Halococcus salifodinae DSM 8989: Min=0, Max=3957
+Haloplanus ruber: Min=0, Max=3293
+Halopelagius inordinatus: Min=0, Max=3559
+Halogeometricum borinquense DSM 11551: Min=0, Max=3827
+Haloferax massiliensis: Min=3836, Max=3854
+Methanobacterium aggregans: Min=0, Max=2219
+Haloferax elongans ATCC BAA-1513: Min=3851, Max=3851
+Candidatus Nitrosotenuis cloacae: Min=1949, Max=1949
+Thermococcus sp. MAR1: Min=0, Max=2174
+Candidatus Nitrosotalea sinensis: Min=0, Max=1849
+Methanobrevibacter smithii TS145A: Min=0, Max=1656
+Methanocalculus sp. AMF5: Min=0, Max=1903
+Methanolobus tindarius DSM 2278: Min=2917, Max=2917
+Halobium salinum: Min=0, Max=4310
+Halorubrum salipaludis: Min=0, Max=3339
+Haladaptatus litoreus: Min=4713, Max=4713
+Halorubrum sp. AJ67: Min=2681, Max=2681
+Haloferax sp. ATCC BAA-644: Min=0, Max=3539
+Halorubrum saccharovorum DSM 1137: Min=0, Max=3263
+Halobaculum saliterrae: Min=0, Max=3506
+Halobellus rarus: Min=0, Max=3456
+Natronomonas gomsonensis: Min=3435, Max=4086
+Methanococcoides alaskense: Min=1825, Max=1825
+Methermicoccus shengliensis DSM 18856: Min=1600, Max=1600
+Halomicroarcula amylolytica: Min=4960, Max=4960
+Halovivax asiaticus JCM 14624: Min=3129, Max=3129
+Thermococcus sp. Bubb.Bath: Min=0, Max=2172
+Thermocladium modestius: Min=0, Max=1946
+Halogeometricum rufum: Min=4156, Max=4156
+Methanobacterium formicicum DSM 3637: Min=0, Max=2535
+Natronomonas aquatica: Min=3146, Max=3146
+Methanothermobacter defluvii: Min=0, Max=1759
+Halostagnicola sp. A56: Min=0, Max=2977
+Natrinema ejinorense: Min=4286, Max=4286
+Methanonatronarchaeum thermophilum: Min=1505, Max=1505
+Thermococcus sp. LS2: Min=0, Max=2389
+Haloferax marinisediminis: Min=3330, Max=3330
+Halobiforma haloterrestris: Min=4239, Max=4239
+Halococcus sediminicola: Min=0, Max=3706
+Halorubrum sp. CGM4_25_10-8A: Min=0, Max=3468
+Haloarchaeobius litoreus: Min=0, Max=4015
+Methanomicrobium mobile BP: Min=1609, Max=1609
+Methanoculleus chikugoensis: Min=0, Max=2653
+Haloarcula sp. CBA1129: Min=4027, Max=4027
+Picrophilus oshimae DSM 9789: Min=1577, Max=1577
+Haloplanus aerogenes: Min=3551, Max=3551
+Halobaculum gomorrense: Min=3152, Max=3152
+Halostagnicola kamekurae: Min=3905, Max=3905
+Nitrosopumilus zosterae: Min=2088, Max=2088
+Nitrosopumilus sp. SJ: Min=1991, Max=1991
+Methanomassiliicoccus luminyensis B10: Min=2589, Max=2589
+Haloarcula japonica DSM 6131: Min=0, Max=4190
+Haladaptatus sp. F3-133: Min=2289, Max=2289
+Candidatus Methanomethylophilus sp. 1R26: Min=0, Max=1920
+Palaeococcus ferrophilus DSM 13482: Min=0, Max=2291
+Haloprofundus halophilus: Min=0, Max=3456
+Halorubrum lipolyticum DSM 21995: Min=3257, Max=3257
+Halorubrum lipolyticum: Min=0, Max=3255
+Thermococcus sp. EP1: Min=0, Max=1928
+Salinigranum halophilum: Min=0, Max=4298
+Halogranum rubrum: Min=0, Max=4443
+Thermococcus sp. JdF3: Min=0, Max=2237
+Thermococcus sp. MV11: Min=0, Max=2002
+Haloplanus vescus: Min=2866, Max=2866
+Halorussus sp. JP-T4: Min=0, Max=4167
+Halobellus rufus: Min=0, Max=3662
+Natronobacterium texcoconense: Min=0, Max=4002
+Archaeoglobus neptunius: Min=2338, Max=2338
+Natronoarchaeum rubrum: Min=0, Max=3891
+Aeropyrum camini SY1 = JCM 12091: Min=0, Max=1887
+Halarchaeum nitratireducens: Min=0, Max=3165
+Natronomonas sp. LN261: Min=2660, Max=2660
+Halorubrum californiense DSM 19288: Min=0, Max=3487
+Halosolutus amylolyticus: Min=4257, Max=4257
+Thermococcus sp. LS1: Min=0, Max=2112
+Methanocorpusculum sp. CW153: Min=1927, Max=1927
+Halovenus rubra: Min=0, Max=3349
+Haloarchaeobius amylolyticus: Min=4515, Max=4515
+Methanomassiliicoccus luminyensis: Min=2589, Max=2589
+Pyrobaculum arsenaticum: Min=2152, Max=2152
+Halomicroarcula limicola: Min=3784, Max=3854
+Natronococcus pandeyae: Min=0, Max=5023
+Methanofollis fontis: Min=0, Max=2308
+Natrialba asiatica DSM 12278: Min=0, Max=4118
+Haloarchaeobius sp. FL176: Min=0, Max=3833
+Haloferax alexandrinus JCM 10717: Min=0, Max=3633
+Halomicroarcula sp. LYG24: Min=3726, Max=3726
+Methanospirillum lacunae: Min=0, Max=3335
+Halostella salina: Min=3785, Max=3785
+Halorubrum salsamenti: Min=0, Max=3513
+Halorhabdus sp. CUG00001: Min=2581, Max=2581
+Halorubrum rutilum: Min=3387, Max=3387
+Halomarina rubra: Min=4143, Max=4143
+Natronorubrum sediminis: Min=3541, Max=3541
+Halorussus halobius: Min=3909, Max=3909
+Salinigranum salinum: Min=0, Max=4376
+Methanoculleus sediminis: Min=0, Max=2445
+Natrarchaeobius halalkaliphilus: Min=0, Max=3325
+Methanobrevibacter smithii TS147A: Min=1933, Max=1933
+Methanobrevibacter woesei: Min=0, Max=1636
+Thermoproteus sp. CP80: Min=0, Max=1641
+Haloarcula sp. CBA1127: Min=4317, Max=4317
+Natronorubrum halophilum: Min=0, Max=4446
+Halogeometricum limi: Min=3590, Max=3590
+Halorubrum aethiopicum: Min=3205, Max=3205
+Haladaptatus sp. R4: Min=0, Max=4783
+Haloplanus salinus: Min=3501, Max=3501
+Haloarcula sp. CBA1130: Min=3958, Max=3958
+Natronolimnobius sp. AArcel1: Min=0, Max=4205
+Methanothermobacter tenebrarum: Min=1555, Max=1555
+Halorubrum sodomense: Min=2997, Max=2997
+Halogeometricum borinquense: Min=0, Max=3918
+Halorubrum tropicale: Min=3550, Max=3550
+Halorubrum sp. BV1: Min=0, Max=2702
+Haloterrigena gelatinilytica: Min=4513, Max=4513
+Halovenus carboxidivorans: Min=3167, Max=3167
+Halorubrum sp. T3: Min=0, Max=3067
+Halosimplex halophilum: Min=0, Max=4314
+Halorubellus sp. JP-L1: Min=3541, Max=3541
+Halolamina salifodinae: Min=0, Max=2726
+Halegenticoccus tardaugens: Min=0, Max=4672
+Methanobrevibacter gottschalkii: Min=0, Max=1861
+Salinirubrum litoreum: Min=3751, Max=3751
+Acidiplasma sp. MBA-1: Min=1788, Max=1788
+Thermococcus stetteri: Min=2134, Max=2134
+Halarchaeum grantii: Min=0, Max=3073
+Haloarchaeobius sp. HME9146: Min=4124, Max=4124
+Methanoculleus taiwanensis: Min=0, Max=2656
+Halorussus salinus: Min=4667, Max=4667
+Halomicroarcula sp. LYG108: Min=0, Max=3726
+Haloterrigena daqingensis: Min=0, Max=3690
+Halogranum gelatinilyticum: Min=0, Max=3742
+Haloferax mediterranei ATCC 33500: Min=0, Max=3805
+Thermococcus sp. 18S1: Min=2049, Max=2049
+Haloarcula sp. R1-2: Min=3975, Max=3975
+Haladaptatus cibarius D43: Min=0, Max=4026
+Methanoculleus sp. Afa-1: Min=2586, Max=2586
+Haloplanus natans DSM 17983: Min=3810, Max=3810
+Haloferax sp. CBA1148: Min=3569, Max=3569
+Haladaptatus sp. T7: Min=0, Max=4330
+Methanococcus voltae PS: Min=0, Max=1595
+Methanolinea mesophila: Min=2478, Max=2478
+Natrinema salaciae: Min=4649, Max=4649
+Methanothermobacter sp. K4: Min=0, Max=1758
+Halorhabdus rudnickae: Min=3295, Max=3295
+Haloarcula quadrata: Min=4405, Max=4405
+Methanogenium marinum: Min=2089, Max=2089
+Haloarcula sp. CBA1128: Min=4069, Max=4069
+Sulfolobus islandicus M.16.22: Min=2639, Max=2639
+Methanobrevibacter gottschalkii DSM 11977: Min=0, Max=1835
+Haloferax marinum: Min=3322, Max=3322
+Methanosarcina soligelidi: Min=3312, Max=3312
+Halobacterium noricense: Min=3065, Max=3065
+Halorubrum salinum: Min=2728, Max=2728
+Vulcanisaeta sp. JCM 14467: Min=3188, Max=3188
+Candidatus Nanobsidianus stetteri: Min=510, Max=510
+Methanofervidicoccus abyssi: Min=1237, Max=1237
+Halorussus rarus: Min=4290, Max=4290
+Thermococcus sp. GR6: Min=0, Max=1896
+Halomicrobium zhouii: Min=4056, Max=4056
+Thermococcus zilligii AN1: Min=1821, Max=1821
+Methanoculleus sp. CWC-02: Min=2392, Max=2392
+Natrinema amylolyticum: Min=4303, Max=4303
+Halocatena sp. DFN5: Min=4903, Max=4903
+Halonotius roseus: Min=2647, Max=2647
+Methanothermobacter thermautotrophicus: Min=1715, Max=1715
+Methanothrix soehngenii: Min=2802, Max=2802
+Methanobacterium sp. YSL: Min=2522, Max=2522
+Haloterrigena saccharevitans: Min=3892, Max=3892
+Halopelagius longus: Min=0, Max=3757
+Halostella pelagica: Min=0, Max=3845
+Pyrodictium occultum: Min=1687, Max=1687
+Halorubrum sp. LN27: Min=3041, Max=3041
+Halomarina salina: Min=4338, Max=4338
+Sulfolobus islandicus M.16.30: Min=2620, Max=2620
+Halobacterium jilantaiense: Min=3039, Max=3039
+Sulfolobus islandicus M.16.13: Min=2622, Max=2622
+Natronolimnobius baerhuensis: Min=0, Max=3753
+Halosegnis longus: Min=2937, Max=2937
+Methanofollis ethanolicus: Min=2633, Max=2633
+Halobacterium sp. R2-5: Min=3023, Max=3023
+Haloferax alexandrinus: Min=3505, Max=3505
+Methanofollis tationis: Min=2233, Max=2233
+Methanosphaera sp. Vir-13MRS: Min=1666, Max=1666
+Haloplanus sp. XH21: Min=2963, Max=2963
+Haloferax sp. AS1: Min=3569, Max=3569
+Halolamina sediminis: Min=2857, Max=2857
+Haloferax sp. CBA1150: Min=3437, Max=3437
+Haloferax litoreum: Min=3452, Max=3452
+Halobacterium sp. CBA1132: Min=3154, Max=3154
+Halolamina litorea: Min=3069, Max=3069
+Halapricum salinum: Min=3400, Max=3400
+Halobacterium sp. TGN-42-S1: Min=3072, Max=3072
+Average feature length: 1790.49
